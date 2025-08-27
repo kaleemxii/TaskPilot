@@ -1,0 +1,1 @@
+In the file selected give me the top 50 rows where sbsleo_detail_treatment is maximally worse in comparison to sbsleo_detail_control. Project utterance, segment2, DebugLink and values of sbsleo_detail for treatment and control. Write output as output.csv in the same location. Do this using python code.
