@@ -1,0 +1,802 @@
+[
+  {
+    "image_id": "coco_348488",
+    "filename": "image_001_000000348488.jpg",
+    "caption": "A Egyptian painting with 4 black horses on it",
+    "all_captions": [
+      "A Egyptian painting with 4 black horses on it",
+      "Four black horses being driven across the sky on this ancient vase. ",
+      "A decorative vase with several black horses and a rider. ",
+      "A vase with a painting of a man riding a horse drawn carriage.",
+      "A brown vase has four black horses on it."
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_url": "http://images.cocodataset.org/val2017/000000348488.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_164969",
+    "filename": "image_002_000000164969.jpg",
+    "caption": "A pizza in a box with toppings that are divided into thirds.",
+    "all_captions": [
+      "A pizza in a box with toppings that are divided into thirds.",
+      "A box of cheese pizza with green peppers in a box ",
+      "A pizza sitting in a pizza box on top of a table.",
+      "A pizza cut into six slices with three different toppings.",
+      "a sliced pizza in a box with different topings"
+    ],
+    "width": 640,
+    "height": 428,
+    "coco_url": "http://images.cocodataset.org/val2017/000000164969.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_267169",
+    "filename": "image_003_000000267169.jpg",
+    "caption": "A baby elephant being fed a bottle of milk.",
+    "all_captions": [
+      "A baby elephant being fed a bottle of milk.",
+      "An elephant drinking from a white square bottle.",
+      "The man is feeding the elephant with milk",
+      "a baby elephant drinking milk out of a bottle",
+      "A person reading a brown elephant a bottle filled with milk."
+    ],
+    "width": 640,
+    "height": 428,
+    "coco_url": "http://images.cocodataset.org/val2017/000000267169.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_136033",
+    "filename": "image_004_000000136033.jpg",
+    "caption": "a bathroom with some orange walls, and a black and white counter ",
+    "all_captions": [
+      "a bathroom with some orange walls, and a black and white counter ",
+      "A bathroom with orange walls and black tile features.",
+      "A bathroom area with a sink and tiled counter top.",
+      "A bathroom with a tiled counter, a sink and a soap dispenser. ",
+      "A bathroom sink with mirror are shown in this picture."
+    ],
+    "width": 640,
+    "height": 428,
+    "coco_url": "http://images.cocodataset.org/val2017/000000136033.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_524850",
+    "filename": "image_005_000000524850.jpg",
+    "caption": "A crowd of people standing around a bus next to a parked jetliner.",
+    "all_captions": [
+      "A crowd of people standing around a bus next to a parked jetliner.",
+      "A group of people standing next to a bus under an airplane.",
+      "People getting on to a bus from an airplane on the tarmac",
+      "An upper shot of several people standing near a plane. ",
+      "A bus loads and unloads passengers next to a plane. "
+    ],
+    "width": 500,
+    "height": 319,
+    "coco_url": "http://images.cocodataset.org/val2017/000000524850.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_352584",
+    "filename": "image_006_000000352584.jpg",
+    "caption": "A sculpture of a toilet made from woven wood. ",
+    "all_captions": [
+      "A sculpture of a toilet made from woven wood. ",
+      "an odd looking toilet is against a wall",
+      "A toilet that is made of material with sparkles.",
+      "The toilet is covered in sparkles with a red object in front of it.",
+      "A toilet covered in glitter sitting inside of a room."
+    ],
+    "width": 375,
+    "height": 500,
+    "coco_url": "http://images.cocodataset.org/val2017/000000352584.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_4495",
+    "filename": "image_007_000000004495.jpg",
+    "caption": "A living room with a couch and chair.",
+    "all_captions": [
+      "A living room with a couch and chair.",
+      "A television, couch and chair in the corner of a room.",
+      "A very simple living area with a chair, sofa and TV.",
+      "A corner of a living room with a TV in it.",
+      "a room with a tv and some different types of couches"
+    ],
+    "width": 500,
+    "height": 375,
+    "coco_url": "http://images.cocodataset.org/val2017/000000004495.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_530624",
+    "filename": "image_008_000000530624.jpg",
+    "caption": "a close up of a dog laying on a bed ",
+    "all_captions": [
+      "a close up of a dog laying on a bed ",
+      "An animal laying under a blanket on top of a bed.",
+      "A dog on its bed lay down for some food",
+      "A brown dog on a bed sitting under the covers. ",
+      "A dog that is laying down on a bed."
+    ],
+    "width": 640,
+    "height": 478,
+    "coco_url": "http://images.cocodataset.org/val2017/000000530624.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_199681",
+    "filename": "image_009_000000199681.jpg",
+    "caption": "A microwave with a stuffed animal inside reads 2:46. ",
+    "all_captions": [
+      "A microwave with a stuffed animal inside reads 2:46. ",
+      "The door to a microwave is open and is exposing a stuffed animal is propped inside.",
+      "A stuffed rabbit has been placed inside of a microwave oven. ",
+      "A stuffed animal is inside of a microwave.",
+      "A stuffed toy bunny lurking inside a microwave oven."
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_url": "http://images.cocodataset.org/val2017/000000199681.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_95707",
+    "filename": "image_010_000000095707.jpg",
+    "caption": "A table topped with a train styled cake.",
+    "all_captions": [
+      "A table topped with a train styled cake.",
+      "Small cakes are on a piece of tinfoil.",
+      "Several pastries sitting on aluminum foil next to a bowl with a knife and spatula in it. ",
+      "Baked dessert items being prepared in kitchen area.",
+      "A piece of cake that is sitting on foil."
+    ],
+    "width": 640,
+    "height": 360,
+    "coco_url": "http://images.cocodataset.org/val2017/000000095707.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_344909",
+    "filename": "image_011_000000344909.jpg",
+    "caption": "A red and gold painted fire hydrant on the street",
+    "all_captions": [
+      "A red and gold painted fire hydrant on the street",
+      "a fire hydrant on the side of the road",
+      "A multicolored fire hydrant that is on the sidewalk.",
+      "A fire hydrant on the side of a street.",
+      "A fire hydrant is standing on the sidewalk with two spouts."
+    ],
+    "width": 480,
+    "height": 640,
+    "coco_url": "http://images.cocodataset.org/val2017/000000344909.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_509824",
+    "filename": "image_012_000000509824.jpg",
+    "caption": "a couch in a living room with three pillows",
+    "all_captions": [
+      "a couch in a living room with three pillows",
+      "A very tidy living room with a white couch with pillows on it.",
+      "A clean and tidy living room with a couch, a table, and a painting on the wall.",
+      "a living room with a couch a table and a panting",
+      "A living room with a cream colored couch"
+    ],
+    "width": 640,
+    "height": 640,
+    "coco_url": "http://images.cocodataset.org/val2017/000000509824.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_334719",
+    "filename": "image_013_000000334719.jpg",
+    "caption": "People walking on sand next to a mountainous area.",
+    "all_captions": [
+      "People walking on sand next to a mountainous area.",
+      "A family playing a game of frisbee on a wet sandy beach.",
+      "A family are playing frisbee on the beach.",
+      "Children & one adult flying a kite in an open area",
+      "A woman and kids on a beach with a large rocky area in background."
+    ],
+    "width": 640,
+    "height": 413,
+    "coco_url": "http://images.cocodataset.org/val2017/000000334719.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_63965",
+    "filename": "image_014_000000063965.jpg",
+    "caption": "A woman holding a plate of cake covered in frosting.",
+    "all_captions": [
+      "A woman holding a plate of cake covered in frosting.",
+      "A close up of a person holding a piece of cake.",
+      "A woman holding a plate with a slice of cake.",
+      "A woman holding a plate of cake with frosting and icing.",
+      "A woman is holding a slice of red and white cake"
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_url": "http://images.cocodataset.org/val2017/000000063965.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_375469",
+    "filename": "image_015_000000375469.jpg",
+    "caption": "two people riding surf boards on a wave",
+    "all_captions": [
+      "two people riding surf boards on a wave",
+      "Two surfers riding a wave back to shore.",
+      "Two people trying to surf on the ocean.",
+      "Two surfers are riding a wave on their surf boards.",
+      "Two individuals catching a wave surfing in the ocean."
+    ],
+    "width": 640,
+    "height": 181,
+    "coco_url": "http://images.cocodataset.org/val2017/000000375469.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_500270",
+    "filename": "image_016_000000500270.jpg",
+    "caption": "A woman in black shirt riding a skateboard.",
+    "all_captions": [
+      "A woman in black shirt riding a skateboard.",
+      "a person skateboarding near a skateboarding park at sunset.",
+      "People skateboard around a skate park near rails. ",
+      "A man riding a skateboard at a skate park.",
+      "A young woman on a skateboard in a skate park"
+    ],
+    "width": 640,
+    "height": 425,
+    "coco_url": "http://images.cocodataset.org/val2017/000000500270.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_73153",
+    "filename": "image_017_000000073153.jpg",
+    "caption": "A person talking on a phone with a tree in the foreground.",
+    "all_captions": [
+      "A person talking on a phone with a tree in the foreground.",
+      "A close up of bark on a tree with a young man on a cell phone in the background",
+      "A man standing with a cell phone by a tree.",
+      "a person standing in a forest using a cell phone.",
+      "The tree bark in the foreground is clear while the person in the background is blurry."
+    ],
+    "width": 427,
+    "height": 640,
+    "coco_url": "http://images.cocodataset.org/val2017/000000073153.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_399560",
+    "filename": "image_018_000000399560.jpg",
+    "caption": "a small kitten inside of a laptop on the floor",
+    "all_captions": [
+      "a small kitten inside of a laptop on the floor",
+      "There is a cat lying down on something. ",
+      "A cat is sitting in a partially closed laptop.",
+      "A photo of a cat laying on a laptop.",
+      "A small cat is standing on a table"
+    ],
+    "width": 640,
+    "height": 478,
+    "coco_url": "http://images.cocodataset.org/val2017/000000399560.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_16010",
+    "filename": "image_019_000000016010.jpg",
+    "caption": "An outdoor area with many animals inluding a zebra and a rhinoceros.  ",
+    "all_captions": [
+      "An outdoor area with many animals inluding a zebra and a rhinoceros.  ",
+      "Some Zebras and cattle are standing together, some eating. ",
+      "A bunch of zebras playing on a grassy field.",
+      "African animals placidly grazing in a park enclosure.",
+      "two zebras grazing while a hippo looks at them and some oxen in the background"
+    ],
+    "width": 640,
+    "height": 471,
+    "coco_url": "http://images.cocodataset.org/val2017/000000016010.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_304396",
+    "filename": "image_020_000000304396.jpg",
+    "caption": "A very tall pink and white clock tower.",
+    "all_captions": [
+      "A very tall pink and white clock tower.",
+      "Salmon-colored clock tower with Florida architectural features including a window's walk.",
+      "A red and white brick building with a clock tower.",
+      "A tall building with several windows and two clocks on it.",
+      "a big building with a clock at the top of it "
+    ],
+    "width": 425,
+    "height": 640,
+    "coco_url": "http://images.cocodataset.org/val2017/000000304396.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_328117",
+    "filename": "image_021_000000328117.jpg",
+    "caption": "A metal tray filled with fried donuts and metal tongs.",
+    "all_captions": [
+      "A metal tray filled with fried donuts and metal tongs.",
+      "A container of Indian fried pastries and tongs",
+      "Donuts in a staging area with a pair of tongs near them.",
+      "THERE ARE FRIED DOUGHNUTS IN A PAN TO BUY",
+      "A bunch of doughnuts in a silver pan with serving tongs."
+    ],
+    "width": 480,
+    "height": 640,
+    "coco_url": "http://images.cocodataset.org/val2017/000000328117.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_370677",
+    "filename": "image_022_000000370677.jpg",
+    "caption": "Three workers stand next to each other with their baked goods behind them.",
+    "all_captions": [
+      "Three workers stand next to each other with their baked goods behind them.",
+      "three people standing in front of trays of doughnuts and bagels",
+      "Three people in work uniforms and visors standing together in front of various types of donuts.",
+      "Three female workers stand in front of rows of pastries. ",
+      "Some girls in colorful shirts standing by some pastries."
+    ],
+    "width": 500,
+    "height": 332,
+    "coco_url": "http://images.cocodataset.org/val2017/000000370677.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_70158",
+    "filename": "image_023_000000070158.jpg",
+    "caption": "Three adult zebras walk calmly along close together.",
+    "all_captions": [
+      "Three adult zebras walk calmly along close together.",
+      "Three zebra standing next to each other on a dirt hillside.",
+      "Three zebras walk along close to each other.",
+      "A group of zebras walk along the sand.",
+      "Three zebras walking in a line in dirt."
+    ],
+    "width": 427,
+    "height": 640,
+    "coco_url": "http://images.cocodataset.org/val2017/000000070158.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_534664",
+    "filename": "image_024_000000534664.jpg",
+    "caption": "A close up photo of suitcases and luggage",
+    "all_captions": [
+      "A close up photo of suitcases and luggage",
+      "Several suitcases sitting on a shelf with tags on them.",
+      "Vintage suitcases with price tags on their handles. ",
+      "The luggage suitcases with tags on them are stacked near one another. ",
+      "There are many suitcases stacked on the shelf."
+    ],
+    "width": 640,
+    "height": 404,
+    "coco_url": "http://images.cocodataset.org/val2017/000000534664.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_310862",
+    "filename": "image_025_000000310862.jpg",
+    "caption": "A man is frowning while standing in an empty room.",
+    "all_captions": [
+      "A man is frowning while standing in an empty room.",
+      "A man in formal business attire stands in an office and looks angry.",
+      "Man in vest and tie standing in room.",
+      "An office view shows cubicles and overhead lights in the background, and to the front ,  a serious looking man with a beard, vest and colorful tie. ",
+      "A man wearing a gray vest and a red stripe tie."
+    ],
+    "width": 612,
+    "height": 612,
+    "coco_url": "http://images.cocodataset.org/val2017/000000310862.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_201418",
+    "filename": "image_026_000000201418.jpg",
+    "caption": "A young man standing in front of a luggage carousel at an airport.",
+    "all_captions": [
+      "A young man standing in front of a luggage carousel at an airport.",
+      "An individual is taken in this very picture. \n",
+      "A young man with suitcases on the conveyor belt in an airport",
+      "A person waits for their luggage at an airport",
+      "Adult standing at luggage carousel in airport area."
+    ],
+    "width": 500,
+    "height": 375,
+    "coco_url": "http://images.cocodataset.org/val2017/000000201418.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_79031",
+    "filename": "image_027_000000079031.jpg",
+    "caption": "A kid on a surboard riding a little wave",
+    "all_captions": [
+      "A kid on a surboard riding a little wave",
+      "A young surf boarder is riding in the water",
+      "A young surfer boy has rode the wave into shore.",
+      "A boy riding a wave on a surfboard.",
+      "A young boy catching a small wave on his surfboard."
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_url": "http://images.cocodataset.org/val2017/000000079031.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_159684",
+    "filename": "image_028_000000159684.jpg",
+    "caption": "A high speed train is seen in the station.",
+    "all_captions": [
+      "A high speed train is seen in the station.",
+      "A train is sitting in a train station.",
+      "A large long train on a steel track.",
+      "This is a picture of a train coming into the station.",
+      "The red and white train is waiting at the station."
+    ],
+    "width": 640,
+    "height": 388,
+    "coco_url": "http://images.cocodataset.org/val2017/000000159684.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_389804",
+    "filename": "image_029_000000389804.jpg",
+    "caption": "A modern bathroom with hardwood flooring and counter tops. ",
+    "all_captions": [
+      "A modern bathroom with hardwood flooring and counter tops. ",
+      "A small bathroom with wood flooring and tan walls.",
+      "a bathroom with a brown wall and counter ",
+      "A very simple and modern bathroom with a white toilet.",
+      "a white toilet in a black counter bathroom"
+    ],
+    "width": 640,
+    "height": 425,
+    "coco_url": "http://images.cocodataset.org/val2017/000000389804.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_378454",
+    "filename": "image_030_000000378454.jpg",
+    "caption": "A man gets air catching the Frisbee near the water.",
+    "all_captions": [
+      "A man gets air catching the Frisbee near the water.",
+      "Man in air catching frisbee at beach near ocean.",
+      "a man is playing with a green flying disk",
+      "A man in white shorts jumping in the air to catch a green Frisbee. ",
+      "A person jumps in the air and catches a Frisbee at the beach."
+    ],
+    "width": 427,
+    "height": 640,
+    "coco_url": "http://images.cocodataset.org/val2017/000000378454.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_186980",
+    "filename": "image_031_000000186980.jpg",
+    "caption": "A wooden table with two chairs next to a sink.",
+    "all_captions": [
+      "A wooden table with two chairs next to a sink.",
+      "A table and chairs in a small kitchen.",
+      "a wooden dinette table and two chairs with place settings",
+      "A very pretty kitchen with a small wooden dining table.",
+      "A table sitting in a kitchen area with a fridge"
+    ],
+    "width": 457,
+    "height": 640,
+    "coco_url": "http://images.cocodataset.org/val2017/000000186980.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_397351",
+    "filename": "image_032_000000397351.jpg",
+    "caption": "A man holding up a bunch of root vegetables for sale.",
+    "all_captions": [
+      "A man holding up a bunch of root vegetables for sale.",
+      "Man selling yellow and red carrots at a vegetable stand ",
+      "A man holding a bunch of carrots behind a display of carrots.",
+      "Street vendor selling produce in a street display.",
+      "A vegetable vendor organizing his food for sale"
+    ],
+    "width": 640,
+    "height": 426,
+    "coco_url": "http://images.cocodataset.org/val2017/000000397351.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_491725",
+    "filename": "image_033_000000491725.jpg",
+    "caption": "Picture of docked boats while sun is setting in distance",
+    "all_captions": [
+      "Picture of docked boats while sun is setting in distance",
+      "A lot of boats sitting on top of a body of water.",
+      "Small sailboats are lit up on the water.",
+      "A group of boats parked in dock on the water.",
+      "Early evening calm at the local boat marina."
+    ],
+    "width": 500,
+    "height": 375,
+    "coco_url": "http://images.cocodataset.org/val2017/000000491725.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_578093",
+    "filename": "image_034_000000578093.jpg",
+    "caption": "a white yellow and blue train at an empty train station",
+    "all_captions": [
+      "a white yellow and blue train at an empty train station",
+      "A train is moving through a train station.",
+      "A train is shown on the inside of a station.",
+      "a large train is sitting inside a train station",
+      "A train is scene in the station with no people around."
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_url": "http://images.cocodataset.org/val2017/000000578093.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_430377",
+    "filename": "image_035_000000430377.jpg",
+    "caption": "a lady that is on some skies on some snow",
+    "all_captions": [
+      "a lady that is on some skies on some snow",
+      "A woman standing on a  mountain with skis and poles.",
+      "A woman is standing in the snow wearing a pair of skis.",
+      "A woman on ski's standing in the snow.",
+      "A woman posing on skis with a ski lift in the background."
+    ],
+    "width": 439,
+    "height": 640,
+    "coco_url": "http://images.cocodataset.org/val2017/000000430377.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_42889",
+    "filename": "image_036_000000042889.jpg",
+    "caption": "A teddy bear sits by a keyboards and microphone.",
+    "all_captions": [
+      "A teddy bear sits by a keyboards and microphone.",
+      "Stuffed bear wearing glasses with electronic audio equipment.",
+      "A very cute teddy bear with glasses and some items.",
+      "A teddy bear that is dress in glasses and is listening to an iPod.",
+      "A stuffed bear, a keyboard, an iPod and microphone."
+    ],
+    "width": 375,
+    "height": 500,
+    "coco_url": "http://images.cocodataset.org/val2017/000000042889.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_292456",
+    "filename": "image_037_000000292456.jpg",
+    "caption": "A man and a woman on a blue motorbike are picking up a piece of luggage from a man.",
+    "all_captions": [
+      "A man and a woman on a blue motorbike are picking up a piece of luggage from a man.",
+      "a woman is sitting on a scooter outside",
+      "a person riding a motorcycle in the reflection ",
+      "A man and a woman riding on a motorcycle are getting ready to hit the road.",
+      "A man and woman on a scooter receiving baggage from a bellhop."
+    ],
+    "width": 500,
+    "height": 375,
+    "coco_url": "http://images.cocodataset.org/val2017/000000292456.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_74733",
+    "filename": "image_038_000000074733.jpg",
+    "caption": "two flatbread pieces covered with different ingredients in between a flight of beers",
+    "all_captions": [
+      "two flatbread pieces covered with different ingredients in between a flight of beers",
+      "A table topped with three mugs of beer and two pizza's.",
+      "Two small flat breads with beer samplers on each side.",
+      "A wooden table holding multiple beers and a plate of food with pizza on it.",
+      "A view of a bunch of pizzas sitting on a table."
+    ],
+    "width": 612,
+    "height": 612,
+    "coco_url": "http://images.cocodataset.org/val2017/000000074733.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_356432",
+    "filename": "image_039_000000356432.jpg",
+    "caption": "Picture of living room with modern furniture and decor",
+    "all_captions": [
+      "Picture of living room with modern furniture and decor",
+      "A living room with art on the walls and a couch.",
+      "this is a living room with green couches and paintings",
+      "a couple of couches in a living room",
+      "a grey couch and a glass table a very nice house"
+    ],
+    "width": 640,
+    "height": 416,
+    "coco_url": "http://images.cocodataset.org/val2017/000000356432.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_184338",
+    "filename": "image_040_000000184338.jpg",
+    "caption": "A large colorful truck with a with a wooden building on it's back.",
+    "all_captions": [
+      "A large colorful truck with a with a wooden building on it's back.",
+      "An old truck with no passenger door with tires and body painted in different colors.",
+      "An old truck, painted over blue in the desert",
+      "A truck with a barn on its bed painted in various colors.",
+      "A truck with many painted decorations is parked in a desert."
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_url": "http://images.cocodataset.org/val2017/000000184338.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_89045",
+    "filename": "image_041_000000089045.jpg",
+    "caption": "a living room with a couch and piano ",
+    "all_captions": [
+      "a living room with a couch and piano ",
+      "A baby grand piano sits in the corner of the living room.\n",
+      "a large piano in a home living room",
+      "A grand piano in a formal residential living room",
+      "Piano in living room area of residential home."
+    ],
+    "width": 640,
+    "height": 425,
+    "coco_url": "http://images.cocodataset.org/val2017/000000089045.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_448448",
+    "filename": "image_042_000000448448.jpg",
+    "caption": "Two giraffes grazing on some green leaves in the field.",
+    "all_captions": [
+      "Two giraffes grazing on some green leaves in the field.",
+      "Two giraffes grazing from a tree in a field.",
+      "GIRAFFES EATING THE SHRUBBERY OR THE TOP OF TREES",
+      "two giraffes eating leaves together off of a tree",
+      "Giraffes love the tender, young leaves on trees."
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_url": "http://images.cocodataset.org/val2017/000000448448.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_153527",
+    "filename": "image_043_000000153527.jpg",
+    "caption": "A row of wooden benches sitting on the side of a road.",
+    "all_captions": [
+      "A row of wooden benches sitting on the side of a road.",
+      "A row of wooden raid with various tools on them.",
+      "Several tools sit on the wood boundaries of a field.",
+      "Several pieces of wood lined up near a lot with several axes around.",
+      "Tools are lying in a road on pieces of thick wood. "
+    ],
+    "width": 500,
+    "height": 375,
+    "coco_url": "http://images.cocodataset.org/val2017/000000153527.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_493566",
+    "filename": "image_044_000000493566.jpg",
+    "caption": "An orange and green train reads \"BNSF\" on the side.",
+    "all_captions": [
+      "An orange and green train reads \"BNSF\" on the side.",
+      "A train caboose on tracks next to another train.",
+      "The last car of a train sits on train tracks.",
+      "Diesel train engine with company logo in train yard.",
+      "This train car has letters and numbers on it."
+    ],
+    "width": 640,
+    "height": 264,
+    "coco_url": "http://images.cocodataset.org/val2017/000000493566.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_21167",
+    "filename": "image_045_000000021167.jpg",
+    "caption": "The couple are dressed up and posing for photos.",
+    "all_captions": [
+      "The couple are dressed up and posing for photos.",
+      "some people standing in a room in formal wear",
+      "A man and a women standing next to each other.",
+      "A couple is dressed in black and the male has a drink.",
+      "A man standing next to a woman in a gray dress."
+    ],
+    "width": 426,
+    "height": 640,
+    "coco_url": "http://images.cocodataset.org/val2017/000000021167.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_506279",
+    "filename": "image_046_000000506279.jpg",
+    "caption": "a close up of a glass of wine on a table",
+    "all_captions": [
+      "a close up of a glass of wine on a table",
+      "Stemmed glass of amber liquid on a counter",
+      "A cocktail being served with lemon in a wine glass.",
+      "There is a full glass sitting on the table.",
+      "A glass filled with alcohol sitting on a white table."
+    ],
+    "width": 640,
+    "height": 640,
+    "coco_url": "http://images.cocodataset.org/val2017/000000506279.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_409211",
+    "filename": "image_047_000000409211.jpg",
+    "caption": "A man standing on a clay tennis court with a racquet.",
+    "all_captions": [
+      "A man standing on a clay tennis court with a racquet.",
+      "A man taking a swing at a tennis ball",
+      "A man about to hit a tennis ball in front of a crowd",
+      "A tennis player strikes the ball with his racket.",
+      "A tennis player taking a swing a the ball during a tennis match."
+    ],
+    "width": 640,
+    "height": 427,
+    "coco_url": "http://images.cocodataset.org/val2017/000000409211.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_292236",
+    "filename": "image_048_000000292236.jpg",
+    "caption": "A couple of men standing next to train tracks.",
+    "all_captions": [
+      "A couple of men standing next to train tracks.",
+      "Several people standing at a train station while a train arrives.",
+      "two men wait for a train at dusk",
+      "The backsides of people as they wait for a train coming in to the station.",
+      "Several people waiting on the side of train tracks as a train with it;s lights on comes down the track."
+    ],
+    "width": 332,
+    "height": 500,
+    "coco_url": "http://images.cocodataset.org/val2017/000000292236.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_116208",
+    "filename": "image_049_000000116208.jpg",
+    "caption": "A very large pizza covered in cheese and toppings.",
+    "all_captions": [
+      "A very large pizza covered in cheese and toppings.",
+      "pizza on a serving tray with empty plates next to it",
+      "A large pizza is shown on a table, with bottles and glasses of wine.",
+      "A pizza that is sitting on a platter.",
+      "Large baked pizza served on stand at table with beverages."
+    ],
+    "width": 640,
+    "height": 480,
+    "coco_url": "http://images.cocodataset.org/val2017/000000116208.jpg",
+    "source": "COCO 2017 Validation"
+  },
+  {
+    "image_id": "coco_221155",
+    "filename": "image_050_000000221155.jpg",
+    "caption": "a couple of animals walking around a farm ",
+    "all_captions": [
+      "a couple of animals walking around a farm ",
+      "Black and white photo of cows near a windmill, house and shed.",
+      "Two cow figures are standing in a yard.",
+      "Two cows are drinking under a small windmill.",
+      "Black and white photograph of cow statues in yard."
+    ],
+    "width": 640,
+    "height": 512,
+    "coco_url": "http://images.cocodataset.org/val2017/000000221155.jpg",
+    "source": "COCO 2017 Validation"
+  }
+]
