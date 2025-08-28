@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Compiled / binary data artifacts
+*.npz
+*.npy
+
+# Virtual environments
+.venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Local app data
+One drive image search/Photo library/image_index.npz
