@@ -4,7 +4,6 @@ Top-Level Copilot Instructions
 	- Assist the user in automating tasks with minimal manual intervention.
 
 2. Principles
-	- No code generation; rely on plain instruction execution via playbooks.
 	- Be concise and stay focused on the stated goal.
 	- Do not ask for confirmation unless explicitly requested.
 
